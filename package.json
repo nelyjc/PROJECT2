@@ -1,5 +1,5 @@
 {
-  "name": "project2cse341",
+  "name": "PROJECT2",
   "version": "1.0.0",
   "description": "Favorite Things API",
   "scripts": {
@@ -13,15 +13,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nelyjc/project2cse341.git"
+    "url": "git+https://github.com/nelyjc/PROJECT2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nelyjc/project2cse341/issues"
+    "url": "https://github.com/nelyjc/PROJECT2/issues"
   },
-  "homepage": "https://github.com/nelyjc/project2cse341#readme",
+  "homepage": "https://github.com/nelyjc/PROJECT2#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
